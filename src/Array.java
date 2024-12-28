@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+//<<<<<<< HEAD
 import java.util.Scanner;
 import java.util.Arrays;
 public class Array {
@@ -33,10 +33,11 @@ public class Array {
 
     }
 }
-=======
+/*
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
     }
 }
 >>>>>>> 0aa01bc4a1c6280a87b25be0d87d767bf9d8531b
+*/
